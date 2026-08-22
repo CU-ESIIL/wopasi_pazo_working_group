@@ -140,7 +140,7 @@ Related landmark: WG-A People and roles.
 | Sylwia Zieba | Member | Ramboll, Inc. | Responsibilities |
 | Patrick Freeland | Member | Institution | Responsibilities |
 | Brian Yandell | Member | Institution | Responsibilities |
-| Sunshine Claymore | Member | Institution | Responsibilities |
+
 
 ## Get Involved
 
