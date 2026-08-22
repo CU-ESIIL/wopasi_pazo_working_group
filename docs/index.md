@@ -9,9 +9,7 @@ As the working group progresses, the repository becomes the reproducible record 
 [Edit this homepage in GitHub](https://github.com/CU-ESIIL/wopasi_pazo/edit/main/docs/index.md){ .md-button .md-button--secondary }
 [Open the GitHub repository](https://github.com/CU-ESIIL/wopasi_pazo){ .md-button }
 
-![Placeholder image for the homepage overview][slot-hero]{ .homepage-hero }
-
---8<-- "_generated/slot_notes/hero.md"
+![logo](/docs/assets/images/slots/hero/Wopasi Pazo_1.jpg)
 
 ## Working Group Abstract
 
